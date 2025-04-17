@@ -1,4 +1,4 @@
-<img src='https://github.com/Databricks-BR/genai_hackathon/raw/main/images/head_genai_hackathon.gif' width='800px'></img>
+<img src='https://github.com/Databricks-BR/hackathon_2025/raw/main/images/head_genai_hackathon.gif' width='800px'></img>
 
 
 </br></br>
@@ -125,7 +125,7 @@ Esse arquivo deverá ser enviado, nesse mesmo horário, a equipe técnica presen
 
 ## MENTORES E PALESTRANTES
 
-<img src='https://github.com/Databricks-BR/genai_hackathon/raw/main/images/mentores2.png' width='850px'></img>
+<img src='https://github.com/Databricks-BR/hackathon_2025/raw/main/images/mentores2.png' width='850px'></img>
 
 Durante o evento, principalmente durante a construção e desenvolvimento da solução, os participantes poderão contar com o apoio técnico do time de especialistas da DATABRICKS.
 
@@ -133,7 +133,7 @@ Durante o evento, principalmente durante a construção e desenvolvimento da sol
 
 ## JURI
 
-<img src='https://github.com/Databricks-BR/genai_hackathon/raw/main/images/juri.png' width='800px'></img>
+<img src='https://github.com/Databricks-BR/hackathon_2025/raw/main/images/juri.png' width='800px'></img>
 
 Os grupos participantes serão avaliados pela equipe de profissionais da DATABRICKS durante a fase do PITCH.
 
@@ -141,7 +141,7 @@ Os grupos participantes serão avaliados pela equipe de profissionais da DATABRI
 
 ## PREMIAÇÃO
 
-<img src='https://github.com/Databricks-BR/genai_hackathon/raw/main/images/brindes.png' width='800px'></img>
+<img src='https://github.com/Databricks-BR/hackathon_2025/raw/main/images/brindes.png' width='800px'></img>
 
 </br></br>
 
